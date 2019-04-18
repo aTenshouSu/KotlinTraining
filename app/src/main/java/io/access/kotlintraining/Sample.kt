@@ -8,8 +8,4 @@ fun hello() {
     println("Hello World!")
 }
 
-fun main(args: Array<String>) {
-    welcome()
-    hello()
-}
 // TODO: declare hello function
